@@ -1,0 +1,1 @@
+# Py-script-for-add-stream-of-numbers
